@@ -222,7 +222,7 @@ a {
 }
 
 .card-badge {
-    background: var(--black);
+    background: hsl(3.25deg 100% 51.98%);
     color: var(--white);
     font-size: var(--fs-7);
     text-transform: uppercase;
@@ -237,7 +237,7 @@ a {
 }
 
 .card-badge.orange {
-    background: var(--orange-soda);
+    background: var(red);
 }
 
 .has-scrollbar {
